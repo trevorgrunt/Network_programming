@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int ma
+	int r = system("cat /proc/1/status");
+	return 0;
+}
+
